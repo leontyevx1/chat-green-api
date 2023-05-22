@@ -3,9 +3,9 @@
 ##Описание проекта:  
 **Пользовательский интерфейс для отправки и получений сообщений WhatsApp.**
 1) Окно входа:  
-   ![join.png](https://github.com/leontyevx1/chat-green-api/blob/master/src/img/Join.png)
+   ![join window](https://github.com/leontyevx1/chat-green-api/blob/master/src/img/join.png)
 2) Окно чата:  
-   ![join.png](https://github.com/leontyevx1/chat-green-api/blob/master/src/img/Chat.png)
+   ![chat window](https://github.com/leontyevx1/chat-green-api/blob/master/src/img/chat.png)
 
 ###Стек используемых технологий: [React](https://ru.reactjs.org/), [Redux Toolkit](https://redux-toolkit.js.org/), [TypeScript](https://www.typescriptlang.org/), [MUI](https://mui.com/).
 
